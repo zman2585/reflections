@@ -18,3 +18,6 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 ---use email to send files to others, use a flash drive
 the flash drive would be hard as you would have to be in close proximity to 
 the other person
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+---you can change what ever you want and not affect the working program
